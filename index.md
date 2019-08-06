@@ -1,5 +1,7 @@
 # *Menu*
 
+## Coffee & Tea
+
 Hot Beverages | Cost | Cold Beverages | Cost
 ---------|------|----------|-----
 Coffee | $1.75 | Iced Coffee | $2.25
@@ -13,6 +15,8 @@ Green Tea | $1.60 | Iced Green Tea | $2.10
 White Tea | $1.60 | Iced White Tea | $2.10
 
 *All prices shown are tall, upgrade to a grande for $0.50 or a venti for $1.00.*
+
+## Smoothies
 
 Smoothie | Cost
 ---------|-----
@@ -52,7 +56,7 @@ Berry Blast (Strawberry, Raspberry, Blueberry) | $5.00
 * Sweet n' Low
 * Equal
 
-## Flavor List
+## Flavors
 
 *Flavors can be added to any hot or iced coffee for no charge.*
 
