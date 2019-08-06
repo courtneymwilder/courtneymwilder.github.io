@@ -9,7 +9,6 @@ Latte | $2.50 | Iced Latte | $3.00
 Americano | $2.25 | Iced Americano | $2.75
 Cappuccino | $2.75 | Iced Cappuccino | $3.25
 Macciato | $2.75 | Iced Macciato | $3.25
- | | | Frappuccino | $3.75
 Black Tea | $1.50 | Iced Black Tea | $2.00
 Green Tea | $1.60 | Iced Green Tea | $2.10
 White Tea | $1.60 | Iced White Tea | $2.10
