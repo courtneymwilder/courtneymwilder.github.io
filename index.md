@@ -15,7 +15,7 @@ White Tea | $1.60 | Iced White Tea | $2.10
 
 ### Milk & Cream Options
 
-* Milk
+* __Milk__
   * Whole
   * 2%
   * 1%
@@ -24,7 +24,7 @@ White Tea | $1.60 | Iced White Tea | $2.10
   * Soy
   * Coconut
   * Goat
-* Cream
+* __Cream___
   * Light
   * Heavy
   * Half & Half
