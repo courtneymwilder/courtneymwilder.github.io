@@ -1,12 +1,13 @@
-# Courtney's Coffee Cafe
+# Courtney's Cafe
 
-Beverage | Cost | Beverage | Cost
+Hot Beverages | Cost | Cold Beverages | Cost
 ---------|------|----------|-----
-Hot Coffee | $1.75 | Iced Coffee | $2.25
+Coffee | $1.75 | Iced Coffee | $2.25
 Latte | $2.50 | Iced Latte | $3.00
 Americano | $2.25 | Iced Americano | $2.75
 Cappuccino | $2.75 | Iced Cappuccino | $3.25
 Macciato | $2.75 | Iced Macciato | $3.25
+
 
 *All prices shown are tall, upgrade to a grande for $0.50 or a venti for $1.00.*
 
