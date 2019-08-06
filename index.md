@@ -15,23 +15,6 @@ White Tea | $1.60 | Iced White Tea | $2.10
 
 *All prices shown are tall, upgrade to a grande for $0.50 or a venti for $1.00. Fresh whipped cream can be added for an additional $0.25.*
 
-## Smoothies
-
-Smoothie | Cost
----------|-----
-Strawberry | $4.50
-Banana | $4.25
-Strawberry Banana | $4.75
-Pina Colada | $5.00
-Raspberry | $4.50
-Blueberry | $4.50
-Mango | $4.50
-Pineapple | $4.25
-Tropical (Mango, Pineapple, Coconut) | $5.00
-Berry Blast (Strawberry, Raspberry, Blueberry) | $5.00
-
-*All smoothies are blended with vanilla greek yogurt, 2% milk, and ice. One size only. Fresh whipped cream can be added for an additional $0.25.*
-
 ## Milk & Cream Options
 
 * __Milk__
@@ -105,3 +88,20 @@ Berry Blast (Strawberry, Raspberry, Blueberry) | $5.00
 * Swiss Chocolate Almond
 * Tiramisu
 * Werther's Original
+
+## Smoothies
+
+Smoothie | Cost
+---------|-----
+Strawberry | $4.50
+Banana | $4.25
+Strawberry Banana | $4.75
+Pina Colada | $5.00
+Raspberry | $4.50
+Blueberry | $4.50
+Mango | $4.50
+Pineapple | $4.25
+Tropical (Mango, Pineapple, Coconut) | $5.00
+Berry Blast (Strawberry, Raspberry, Blueberry) | $5.00
+
+*All smoothies are blended with vanilla greek yogurt, 2% milk, and ice. One size only. Fresh whipped cream can be added for an additional $0.25.*
