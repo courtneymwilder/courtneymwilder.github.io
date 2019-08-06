@@ -1,5 +1,3 @@
-# Courtney's Cafe
-
 ## *Menu*
 
 Hot Beverages | Cost | Cold Beverages | Cost
