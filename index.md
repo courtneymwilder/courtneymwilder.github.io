@@ -9,6 +9,8 @@ Iced Latte | $3.00
 Americano | $2.25
 Iced Americano | $2.75
 
+*All prices shown are tall, upgrade to a grande for $0.50 or a venti for $1.00.*
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
