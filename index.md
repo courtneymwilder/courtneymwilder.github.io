@@ -31,6 +31,8 @@ Pineapple | $4.25
 Tropical (Mango, Pineapple, Coconut) | $5.00
 Berry Blast (Strawberry, Raspberry, Blueberry) | $5.00
 
+*All smoothies are blended with vanilla greek yogurt, 2% milk, and ice. One size only.*
+
 ## Milk & Cream Options
 
 * __Milk__
