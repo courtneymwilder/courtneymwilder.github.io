@@ -1,4 +1,4 @@
-## *Menu*
+# *Menu*
 
 Hot Beverages | Cost | Cold Beverages | Cost
 ---------|------|----------|-----
