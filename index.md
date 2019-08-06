@@ -1,7 +1,7 @@
 # Courtney's Cafe
 
 ![Image of Cloud Cats]
-(https://octodex.github.com/cloud/)
+(https://octodex.github.com/cloud.png)
 
 Hot Beverages | Cost | Cold Beverages | Cost
 ---------|------|----------|-----
