@@ -14,7 +14,7 @@ Black Tea | $1.50 | Iced Black Tea | $2.00
 Green Tea | $1.60 | Iced Green Tea | $2.10
 White Tea | $1.60 | Iced White Tea | $2.10
 
-*All prices shown are tall, upgrade to a grande for $0.50 or a venti for $1.00.*
+*All prices shown are tall, upgrade to a grande for $0.50 or a venti for $1.00. Fresh whipped cream can be added for an additional $0.25.*
 
 ## Smoothies
 
@@ -31,7 +31,7 @@ Pineapple | $4.25
 Tropical (Mango, Pineapple, Coconut) | $5.00
 Berry Blast (Strawberry, Raspberry, Blueberry) | $5.00
 
-*All smoothies are blended with vanilla greek yogurt, 2% milk, and ice. One size only.*
+*All smoothies are blended with vanilla greek yogurt, 2% milk, and ice. One size only. Fresh whipped cream can be added for an additional $0.25.*
 
 ## Milk & Cream Options
 
