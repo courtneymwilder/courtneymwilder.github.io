@@ -1,6 +1,4 @@
-title: Courtney's Cafe
-
-# Menu
+# Courtney's Cafe
 
 Hot Beverages | Cost | Cold Beverages | Cost
 ---------|------|----------|-----
