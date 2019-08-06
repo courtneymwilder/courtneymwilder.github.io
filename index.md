@@ -39,4 +39,4 @@ White Tea | $1.60 | Iced White Tea | $2.10
 * Equal
 
 ```markdown
-### __Flavors__
+Flavors
