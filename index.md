@@ -1,6 +1,6 @@
 # ☀️☕️ Courtney's Cafe ☕️☀️
 
-## *Menu*
+# *Menu*
 
 ## Coffee & Tea
 
