@@ -2,7 +2,12 @@
 
 Beverage | Cost
 ---------|-----
-
+Hot coffee | $1.75
+Iced coffee | $2.25
+Latte | $2.50
+Iced Latte | $3.00
+Americano | $2.25
+Iced Americano | $2.75
 
 ### Markdown
 
