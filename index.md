@@ -1,5 +1,7 @@
 # ☀️☕️ Courtney's Cafe ☕️☀️
 
+# Menu
+
 ## Coffee & Tea
 
 Hot Beverages | Cost | Cold Beverages | Cost
