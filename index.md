@@ -24,7 +24,7 @@ White Tea | $1.60 | Iced White Tea | $2.10
   * Soy
   * Coconut
   * Goat
-* __Cream___
+* __Cream__
   * Light
   * Heavy
   * Half & Half
