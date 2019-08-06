@@ -1,6 +1,6 @@
 # Courtney's Cafe
 
-## Beverage List
+## *Menu*
 
 Hot Beverages | Cost | Cold Beverages | Cost
 ---------|------|----------|-----
