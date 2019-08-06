@@ -1,5 +1,7 @@
 # Courtney's Cafe
 
+## Beverage List
+
 Hot Beverages | Cost | Cold Beverages | Cost
 ---------|------|----------|-----
 Coffee | $1.75 | Iced Coffee | $2.25
