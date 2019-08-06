@@ -40,4 +40,6 @@ White Tea | $1.60 | Iced White Tea | $2.10
 
 ```markdown
 
-**Flavors**
+Flavor List
+
+* French Vanilla
