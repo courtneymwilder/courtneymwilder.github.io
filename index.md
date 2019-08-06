@@ -1,5 +1,8 @@
 # Courtney's Cafe
 
+![Image of Coffee]
+(https://www.freepik.com/free-photo/coffee-cup-beans-white-background_1007883.htm)
+
 Hot Beverages | Cost | Cold Beverages | Cost
 ---------|------|----------|-----
 Coffee | $1.75 | Iced Coffee | $2.25
