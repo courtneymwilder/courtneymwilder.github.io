@@ -1,8 +1,5 @@
 # Courtney's Cafe
 
-![Image of Cloud Cats]
-(https://octodex.github.com/cloud.png/)
-
 Hot Beverages | Cost | Cold Beverages | Cost
 ---------|------|----------|-----
 Coffee | $1.75 | Iced Coffee | $2.25
