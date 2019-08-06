@@ -38,9 +38,7 @@ White Tea | $1.60 | Iced White Tea | $2.10
 * Sweet n' Low
 * Equal
 
-```markdown
-
-Flavor List
+### Flavor List
 
 * French Vanilla
 * Caramel
