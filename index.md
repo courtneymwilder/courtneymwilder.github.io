@@ -13,13 +13,13 @@ White Tea | $1.60 | Iced White Tea | $2.10
 
 *All prices shown are tall, upgrade to a grande for $0.50 or a venti for $1.00.*
 
-### Milk & Cream Options
-* Milk
-  * Whole
-  * 2%
-  * 1%
-  * Skim
-  * Almond
+### Milk & Cream Options | ### Sweetener Options
+* Milk | * Sugar
+  * Whole | * Honey
+  * 2% | * Agave Nectar
+  * 1% | * Splenda
+  * Skim | * Sweet n' Low
+  * Almond | * Equal
   * Soy
   * Coconut
   * Goat
