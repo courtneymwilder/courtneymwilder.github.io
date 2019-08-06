@@ -42,6 +42,8 @@ White Tea | $1.60 | Iced White Tea | $2.10
 
 ## Flavor List
 
+*Flavors can be added to any hot or iced coffee for no charge*
+
 * Almond
 * Almond Joy
 * Banana
