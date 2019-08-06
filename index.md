@@ -15,7 +15,7 @@ White Tea | $1.60 | Iced White Tea | $2.10
 
 *All prices shown are tall, upgrade to a grande for $0.50 or a venti for $1.00. Fresh whipped cream can be added for an additional $0.25.*
 
-## Milk & Cream Options
+### Milk & Cream Options
 
 * __Milk__
   * Whole
@@ -31,7 +31,7 @@ White Tea | $1.60 | Iced White Tea | $2.10
   * Heavy
   * Half & Half
 
-## Sweetener Options
+### Sweetener Options
 
 * Sugar
 * Honey
@@ -40,7 +40,7 @@ White Tea | $1.60 | Iced White Tea | $2.10
 * Sweet n' Low
 * Equal
 
-## Flavors
+### Flavors
 
 *Flavors can be added to any hot or iced coffee for no charge.*
 
