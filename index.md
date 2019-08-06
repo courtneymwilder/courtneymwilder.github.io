@@ -1,5 +1,3 @@
-# ☀️☕️ Menu ☕️☀️
-
 ## Coffee & Tea
 
 Hot Beverages | Cost | Cold Beverages | Cost
