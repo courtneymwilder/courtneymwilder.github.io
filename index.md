@@ -42,46 +42,47 @@ White Tea | $1.60 | Iced White Tea | $2.10
 
 ## Flavor List
 
-* French Vanilla
+* Almond
+* Almond Joy
+* Banana
+* Birthday Cake
+* Blueberry
+* Blueberry Cobbler
+* Brownie Sundae
+* Butterfinger
 * Caramel
-* Mocha
+* Caramel Coconut
+* Caramel Nut
+* Chocolate Banana
+* Chocolate Peanut Butter
+* Chunky Monkey
 * Cinnamon Bun
 * Coconut
-* Snickerdoodle
-* Chocolate Peanut Butter
-* Banana
-* Strawberry
-* Blueberry
-* Raspberry
-* Hazelnut
-* Almond
-* Swiss Chocolate Almond
-* Pistachio
-* Caramel Nut
-* Hazelnut Coconut
-* French Toast
-* Birthday Cake
-* Irish Cream
-* Pumpkin Spice
-* Caramel Coconut
-* Almond Joy
 * Coconut Joy
-* Brownie Sundae
-* Samoa
-* Chunky Monkey
 * Cookies & Cream
 * Cookie Dough
+* French Toast
+* French Vanilla
 * French Vanilla Grasshopper
 * Hawaiian Macadamia Nut
+* Hazelnut
+* Hazelnut Coconut
 * Hershey Almond
 * Hot Fudge Sundae
-* Pina Colada
-* S'mores
-* Tiramisu
-* Werther's Original
+* Irish Cream
+* Mocha
+* Mocha Cinnamon Swirl
 * Mocha Mint
 * Mocha Raspberry
-* Mocha Cinnamon Swirl
-* Blueberry Cobbler
-* Butterfinger
 * Mudslide
+* Pina Colada
+* Pistachio
+* Pumpkin Spice
+* Raspberry
+* Snickerdoodle
+* Samoa
+* S'mores
+* Strawberry
+* Swiss Chocolate Almond
+* Tiramisu
+* Werther's Original
