@@ -1,7 +1,7 @@
 # Courtney's Coffee Cafe
 
-### Items and Pricing
-
+Item | Price
+-----|------
 
 
 ### Markdown
