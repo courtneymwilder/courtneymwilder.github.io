@@ -13,14 +13,14 @@ White Tea | $1.60 | Iced White Tea | $2.10
 
 *All prices shown are tall, upgrade to a grande for $0.50 or a venti for $1.00.*
 
-### Milk & Cream Options | Sweetener Options
--------------------------|------------------
-* Milk | * Sugar
-  * Whole | * Honey
-  * 2% | * Agave Nectar
-  * 1% | * Splenda
-  * Skim | * Sweet n' Low
-  * Almond | * Equal
+### Milk & Cream Options
+
+* Milk
+  * Whole
+  * 2%
+  * 1%
+  * Skim
+  * Almond
   * Soy
   * Coconut
   * Goat
@@ -29,7 +29,14 @@ White Tea | $1.60 | Iced White Tea | $2.10
   * Heavy
   * Half & Half
 
-### Markdown
+### Sweetener Options
+
+* Sugar
+* Honey
+* Agave Nectar
+* Splenda
+* Sweet n' Low
+* Equal
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
