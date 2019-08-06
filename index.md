@@ -1,7 +1,7 @@
 # Courtney's Coffee Cafe
 
-Item | Price
------|------
+Beverage | Cost
+---------|-----
 
 
 ### Markdown
